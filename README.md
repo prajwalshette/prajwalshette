@@ -1,3 +1,39 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hii,+there+I'm+Prajwal+Shette..;++;I'm+a+Frontend+Web+Developer;Engineering+Student...;Competitive+Programmer...;Active+Learner/Researcher...;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/prajwal-shette-19649a205">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/prajwalshette13/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
+  </a>
+  <a href="prajwalshette13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/prajwalshette/count.svg" />
+</p>
+
+     
+
+</div>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+
 ### 🧑‍💻 My Tech Stack 🤖
 
 #### 🎃 Languages I Use
