@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%40+Senslyze;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems;Node.js+%7C+React+%7C+Spring+Boot+%7C+Kafka;Scaled+WhatsApp+broadcast+to+100K%2B+%40+150+msg%2Fsec+%F0%9F%9A%80)](https://github.com/prajwalshette)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%40+Senslyze;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems;Node.js+%7C+React+%7C+Spring+Boot+%7C+Kafka;Scaled+WhatsApp+broadcast+to+100K%2B+%40+250+msg%2Fsec+%F0%9F%9A%80)](https://github.com/prajwalshette)
 
 </div>
 
@@ -32,7 +32,7 @@ const prajwal: Developer = {
   focus:      ["AI / Agentic Systems", "Full-Stack Engineering", "Scalable Backends"],
   building:   "WhatsApp Bot Builder + RAG Pipelines",
   passions:   ["LangChain / LangGraph", "Multi-Agent Systems", "Clean Architecture"],
-  achievement:"Scaled WhatsApp broadcast → 100K+ farmers @ 150 msg/sec 🚀",
+  achievement:"Scaled WhatsApp broadcast → 100K+ farmers @ 250 msg/sec 🚀",
   openTo:     ["Senior Roles", "Freelance Collaborations", "AI/Backend Consulting"],
 };
 ```
